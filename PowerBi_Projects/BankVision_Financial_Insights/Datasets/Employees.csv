@@ -1,0 +1,1001 @@
+EmployeeID,EmployeeName,Role,BranchID,HireDate,
+EMP1000,Ira Sehgal,Credit Analyst,BR136,05-12-24,
+EMP1001,Rasha Dube,Assistant Manager,BR140,21-03-25,Resigned
+EMP1002,Divij Bajwa,Branch Manager,BR132,26-11-24,Resigned
+EMP1003,Piya Ranganathan,Operations Manager,BR145,18-06-24,Active
+EMP1004,Ojas Chaudhuri,Branch Manager,BR209,31-08-24,
+EMP1005,Sumer Zacharia,Customer Service Executive,BR126,18-10-24,Active
+EMP1006,Ehsaan Raja,Credit Analyst,BR186,01-07-24,
+EMP1007,Nitara Lalla,Assistant Manager,BR121,28-06-24,
+EMP1008,Vivaan Shan,Credit Analyst,BR143,28-08-24,Resigned
+EMP1009,Hazel Sunder,Cashier,BR218,12-08-24,Resigned
+EMP1010,Pranay Baria,Branch Manager,BR163,18-05-24,
+EMP1011,Diya Manne,Teller,BR248,28-09-24,Resigned
+EMP1012,Anvi Loyal,Relationship Manager,BR132,15-03-25,Resigned
+EMP1013,Kartik Kala,Loan Officer,BR116,05-09-24,Resigned
+EMP1014,Armaan Tak,Branch Manager,BR155,24-01-25,
+EMP1015,Tiya Mander,Operations Manager,BR126,25-08-24,Resigned
+EMP1016,Pranay Balakrishnan,Sales Executive,BR179,23-05-24,
+EMP1017,Kiara Chander,Relationship Manager,BR235,01-07-24,
+EMP1018,Badal Majumdar,Cashier,BR153,30-01-25,
+EMP1019,Diya Handa,Relationship Manager,BR218,23-12-24,Active
+EMP1020,Bhamini Sengupta,Loan Officer,BR178,25-02-25,Active
+EMP1021,Ivan Saraf,Credit Analyst,BR103,05-11-24,Resigned
+EMP1022,Ela Dhingra,Teller,BR227,07-10-24,Active
+EMP1023,Rasha Deol,Relationship Manager,BR240,24-10-24,
+EMP1024,Madhup Cheema,Teller,BR145,10-08-24,Resigned
+EMP1025,Fateh Dara,Cashier,BR158,21-06-24,Resigned
+EMP1026,Yasmin Sagar,Assistant Manager,BR145,12-05-24,
+EMP1027,Seher Mahal,Sales Executive,BR154,03-03-25,Resigned
+EMP1028,Yakshit Batta,Loan Officer,BR194,14-10-24,
+EMP1029,Jiya Din,Customer Service Executive,BR170,07-09-24,Active
+EMP1030,Himmat Ranganathan,Credit Analyst,BR111,04-09-24,Resigned
+EMP1031,Myra Krishna,Branch Manager,BR225,13-09-24,
+EMP1032,Kiaan Saha,Teller,BR178,16-11-24,Active
+EMP1033,Hazel Rout,Sales Executive,BR160,26-02-25,Resigned
+EMP1034,Nitya Devi,Sales Executive,BR229,16-04-24,
+EMP1035,Bhavin Dewan,Sales Executive,BR164,16-08-24,Active
+EMP1036,Ivan Lad,Assistant Manager,BR177,12-01-25,Resigned
+EMP1037,Amani Sami,Sales Executive,BR187,22-02-25,
+EMP1038,Arnav Wali,Credit Analyst,BR214,08-04-24,Resigned
+EMP1039,Neelofar Bhatt,Teller,BR152,08-03-25,Active
+EMP1040,Stuvan Wali,Branch Manager,BR160,01-03-25,Active
+EMP1041,Mishti Ganesh,Assistant Manager,BR204,09-10-24,Resigned
+EMP1042,Kartik Saraf,Assistant Manager,BR133,23-02-25,Active
+EMP1043,Sana Sem,Assistant Manager,BR234,27-11-24,
+EMP1044,Veer Bakshi,Cashier,BR209,11-04-24,Resigned
+EMP1045,Devansh Goyal,Credit Analyst,BR237,24-12-24,Active
+EMP1046,Samiha Raju,Credit Analyst,BR153,30-07-24,Active
+EMP1047,Navya Chaudhary,Sales Executive,BR196,08-04-24,Resigned
+EMP1048,Taimur Shere,Cashier,BR163,07-05-24,
+EMP1049,Saanvi Dani,Operations Manager,BR186,25-04-24,Resigned
+EMP1050,Ela Ghosh,Customer Service Executive,BR172,11-05-24,Active
+EMP1051,Shray Sachar,Teller,BR233,11-01-25,Active
+EMP1052,Suhana Hayre,Operations Manager,BR224,10-06-24,
+EMP1053,Vardaniya Tandon,Loan Officer,BR227,31-12-24,Active
+EMP1054,Faiyaz Dugal,Teller,BR121,21-10-24,Resigned
+EMP1055,Kabir Mann,Credit Analyst,BR237,18-09-24,Resigned
+EMP1056,Sahil Mall,Operations Manager,BR119,22-02-25,Resigned
+EMP1057,Yashvi Rege,Cashier,BR119,15-04-24,Resigned
+EMP1058,Nitya Chad,Branch Manager,BR114,04-12-24,
+EMP1059,Kanav Gera,Sales Executive,BR111,23-04-24,
+EMP1060,Samarth Bath,Loan Officer,BR235,20-11-24,
+EMP1061,Nitara Toor,Operations Manager,BR140,23-04-24,Active
+EMP1062,Yasmin Rana,Sales Executive,BR113,11-07-24,
+EMP1063,Advika Shenoy,Cashier,BR200,16-08-24,Active
+EMP1064,Akarsh Swamy,Loan Officer,BR247,05-06-24,Resigned
+EMP1065,Priyansh Babu,Sales Executive,BR159,23-12-24,Active
+EMP1066,Siya Swaminathan,Sales Executive,BR211,07-02-25,Active
+EMP1067,Indrajit Devan,Relationship Manager,BR239,02-01-25,Resigned
+EMP1068,Samarth Rajan,Customer Service Executive,BR187,27-04-24,Resigned
+EMP1069,Vedika Shenoy,Credit Analyst,BR111,06-04-24,Resigned
+EMP1070,Urvi Buch,Operations Manager,BR156,27-10-24,
+EMP1071,Eva Lall,Teller,BR188,11-05-24,
+EMP1072,Samiha Bhatti,Loan Officer,BR224,23-06-24,
+EMP1073,Vardaniya Bhat,Sales Executive,BR219,07-03-25,Resigned
+EMP1074,Vedika Lata,Relationship Manager,BR230,04-08-24,Active
+EMP1075,Hrishita Chaudry,Assistant Manager,BR206,26-01-25,Active
+EMP1076,Prerak Sarma,Loan Officer,BR210,08-07-24,Active
+EMP1077,Priyansh Sabharwal,Operations Manager,BR126,31-01-25,
+EMP1078,Shray Majumdar,Customer Service Executive,BR232,05-12-24,
+EMP1079,Dishani Maharaj,Cashier,BR222,01-02-25,Active
+EMP1080,Vritika Shere,Sales Executive,BR169,28-07-24,Resigned
+EMP1081,Vanya Rajagopal,Teller,BR103,07-09-24,Resigned
+EMP1082,Damini Rana,Sales Executive,BR172,13-10-24,Resigned
+EMP1083,Hrishita Arora,Customer Service Executive,BR184,01-07-24,
+EMP1084,Mahika Ganesh,Loan Officer,BR168,30-12-24,Resigned
+EMP1085,Shaan Chandran,Relationship Manager,BR129,01-06-24,
+EMP1086,Zaina Shan,Customer Service Executive,BR150,17-02-25,
+EMP1087,Shanaya Divan,Relationship Manager,BR159,07-07-24,Resigned
+EMP1088,Sahil Bali,Branch Manager,BR216,09-11-24,Resigned
+EMP1089,Divij Mahajan,Branch Manager,BR117,15-02-25,Resigned
+EMP1090,Suhana Dey,Branch Manager,BR186,12-09-24,Active
+EMP1091,Neysa Kade,Relationship Manager,BR177,20-09-24,Active
+EMP1092,Vaibhav Chanda,Relationship Manager,BR206,02-03-25,Active
+EMP1093,Raghav Sane,Branch Manager,BR231,26-12-24,Resigned
+EMP1094,Advik Gaba,Loan Officer,BR185,04-05-24,Resigned
+EMP1095,Ira Gulati,Cashier,BR186,23-09-24,Resigned
+EMP1096,Nitara Hayer,Cashier,BR236,10-12-24,Resigned
+EMP1097,Onkar Saini,Credit Analyst,BR171,03-05-24,Resigned
+EMP1098,Faiyaz Bala,Customer Service Executive,BR159,20-07-24,
+EMP1099,Azad Lad,Customer Service Executive,BR168,02-11-24,Active
+EMP1100,Eshani Vaidya,Operations Manager,BR215,21-09-24,Active
+EMP1101,Tushar Agrawal,Assistant Manager,BR246,13-11-24,
+EMP1102,Hunar Sachdev,Cashier,BR116,25-08-24,Resigned
+EMP1103,Kaira Kannan,Teller,BR197,19-01-25,Active
+EMP1104,Baiju Hans,Cashier,BR205,01-04-24,Active
+EMP1105,Navya Chaudry,Loan Officer,BR188,08-06-24,Active
+EMP1106,Ishaan Seshadri,Customer Service Executive,BR139,15-01-25,Resigned
+EMP1107,Charvi Sarma,Teller,BR187,13-07-24,
+EMP1108,Jhanvi Sant,Operations Manager,BR139,28-08-24,
+EMP1109,Onkar Khanna,Cashier,BR123,06-01-25,Active
+EMP1110,Hridaan Bora,Relationship Manager,BR192,17-11-24,Resigned
+EMP1111,Manikya Tailor,Credit Analyst,BR214,22-05-24,Resigned
+EMP1112,Divit Sarkar,Assistant Manager,BR156,11-03-25,Active
+EMP1113,Ahana  Madan,Branch Manager,BR245,21-09-24,
+EMP1114,Yashvi Upadhyay,Loan Officer,BR202,30-07-24,Resigned
+EMP1115,Gokul Goyal,Assistant Manager,BR241,17-07-24,Active
+EMP1116,Aarush Bumb,Branch Manager,BR111,16-06-24,Active
+EMP1117,Adira Rastogi,Cashier,BR116,25-09-24,
+EMP1118,Dhruv Dua,Credit Analyst,BR131,19-02-25,Active
+EMP1119,Parinaaz Krishna,Credit Analyst,BR126,30-06-24,
+EMP1120,Sumer Anne,Assistant Manager,BR176,13-11-24,Resigned
+EMP1121,Jayesh Chacko,Cashier,BR243,13-06-24,Active
+EMP1122,Dhanuk Konda,Sales Executive,BR101,09-02-25,Active
+EMP1123,Advik Bhalla,Operations Manager,BR242,11-09-24,Resigned
+EMP1124,Hunar Singhal,Relationship Manager,BR155,31-08-24,Active
+EMP1125,Jhanvi Sengupta,Assistant Manager,BR118,03-06-24,Resigned
+EMP1126,Kiaan Deo,Assistant Manager,BR196,10-12-24,Active
+EMP1127,Suhana Jhaveri,Customer Service Executive,BR101,14-04-24,Resigned
+EMP1128,Arnav Dora,Sales Executive,BR139,21-06-24,
+EMP1129,Abram Chauhan,Assistant Manager,BR118,23-02-25,
+EMP1130,Yuvaan Shroff,Teller,BR115,12-11-24,
+EMP1131,Oorja Rajagopal,Customer Service Executive,BR162,09-04-24,Active
+EMP1132,Aniruddh Chander,Loan Officer,BR115,06-06-24,Resigned
+EMP1133,Rania Kari,Branch Manager,BR207,24-09-24,Active
+EMP1134,Keya Rao,Sales Executive,BR226,10-11-24,Resigned
+EMP1135,Ela Swamy,Assistant Manager,BR178,07-06-24,Resigned
+EMP1136,Divit Kunda,Customer Service Executive,BR155,21-05-24,Active
+EMP1137,Veer Wadhwa,Teller,BR209,27-04-24,
+EMP1138,Vardaniya Kadakia,Branch Manager,BR169,04-07-24,Resigned
+EMP1139,Neelofar Biswas,Cashier,BR173,27-11-24,Resigned
+EMP1140,Jivin Bumb,Relationship Manager,BR208,13-08-24,Active
+EMP1141,Yasmin Bawa,Relationship Manager,BR153,09-03-25,Resigned
+EMP1142,Urvi Kakar,Teller,BR184,16-02-25,Resigned
+EMP1143,Ishita Johal,Assistant Manager,BR147,24-11-24,Active
+EMP1144,Hunar Roy,Branch Manager,BR195,23-11-24,
+EMP1145,Baiju Chakrabarti,Branch Manager,BR138,07-06-24,Resigned
+EMP1146,Kimaya Sandhu,Customer Service Executive,BR151,10-08-24,Resigned
+EMP1147,Eva Sridhar,Cashier,BR208,18-03-25,
+EMP1148,Lavanya Aggarwal,Branch Manager,BR158,09-06-24,Resigned
+EMP1149,Vidur Raja,Relationship Manager,BR189,27-11-24,Resigned
+EMP1150,Ritvik Kota,Operations Manager,BR210,12-04-24,Active
+EMP1151,Tara Hora,Sales Executive,BR134,09-03-25,
+EMP1152,Gatik Sodhi,Cashier,BR154,16-08-24,
+EMP1153,Myra Bhardwaj,Customer Service Executive,BR209,10-11-24,Resigned
+EMP1154,Sahil Sabharwal,Relationship Manager,BR237,10-10-24,Active
+EMP1155,Jhanvi Mani,Credit Analyst,BR203,10-07-24,
+EMP1156,Ahana  Kala,Operations Manager,BR126,01-08-24,
+EMP1157,Dhanuk Shere,Operations Manager,BR245,25-02-25,
+EMP1158,Navya Majumdar,Assistant Manager,BR167,12-10-24,Resigned
+EMP1159,Shlok Ghosh,Relationship Manager,BR248,04-07-24,Resigned
+EMP1160,Nirvi Dayal,Operations Manager,BR102,28-08-24,
+EMP1161,Ritvik Kuruvilla,Branch Manager,BR171,12-01-25,Resigned
+EMP1162,Ishita Desai,Relationship Manager,BR158,15-12-24,
+EMP1163,Ela Babu,Teller,BR173,14-02-25,Resigned
+EMP1164,Manikya Rajagopalan,Customer Service Executive,BR120,18-09-24,Resigned
+EMP1165,Bhavin Chandran,Branch Manager,BR204,14-04-24,Active
+EMP1166,Hazel Maharaj,Teller,BR150,22-07-24,Resigned
+EMP1167,Divyansh De,Teller,BR119,04-05-24,
+EMP1168,Manjari Zacharia,Branch Manager,BR199,28-10-24,
+EMP1169,Lavanya Samra,Sales Executive,BR108,20-03-25,Resigned
+EMP1170,Hrishita Dhawan,Sales Executive,BR139,09-08-24,Active
+EMP1171,Oorja Raval,Credit Analyst,BR247,21-09-24,Active
+EMP1172,Indrans Uppal,Loan Officer,BR145,02-01-25,Resigned
+EMP1173,Rania Badami,Cashier,BR106,02-05-24,
+EMP1174,Reyansh Cherian,Relationship Manager,BR100,01-02-25,
+EMP1175,Biju Mani,Branch Manager,BR228,21-06-24,Active
+EMP1176,Manjari Bhardwaj,Assistant Manager,BR139,20-01-25,Active
+EMP1177,Vivaan Sane,Relationship Manager,BR115,07-09-24,
+EMP1178,Ahana  Rattan,Customer Service Executive,BR224,09-08-24,Resigned
+EMP1179,Nakul Subramanian,Operations Manager,BR168,02-05-24,
+EMP1180,Romil Saran,Customer Service Executive,BR200,11-03-25,
+EMP1181,Aarush Bhandari,Credit Analyst,BR209,28-12-24,Active
+EMP1182,Aaryahi Doshi,Cashier,BR181,10-09-24,Active
+EMP1183,Khushi Chawla,Branch Manager,BR115,08-07-24,Resigned
+EMP1184,Divij Sarna,Sales Executive,BR187,12-08-24,Active
+EMP1185,Veer Chowdhury,Teller,BR224,21-08-24,Active
+EMP1186,Shamik Saran,Relationship Manager,BR156,13-08-24,Active
+EMP1187,Eva Sarraf,Teller,BR240,03-06-24,
+EMP1188,Lagan Wali,Branch Manager,BR149,20-02-25,Active
+EMP1189,Kiaan Goyal,Customer Service Executive,BR108,03-02-25,Active
+EMP1190,Tara Raj,Teller,BR175,08-12-24,
+EMP1191,Darshit Kulkarni,Cashier,BR124,12-07-24,Resigned
+EMP1192,Nirvaan Shere,Loan Officer,BR216,06-03-25,
+EMP1193,Stuvan Hegde,Branch Manager,BR232,26-10-24,
+EMP1194,Nishith Sunder,Customer Service Executive,BR221,02-12-24,Active
+EMP1195,Rohan Varughese,Teller,BR141,21-06-24,
+EMP1196,Anaya Dass,Customer Service Executive,BR166,06-05-24,Resigned
+EMP1197,Prisha Sharaf,Relationship Manager,BR169,12-04-24,Active
+EMP1198,Aaryahi Gole,Assistant Manager,BR161,25-11-24,Active
+EMP1199,Romil Bedi,Cashier,BR177,18-06-24,Active
+EMP1200,Ojas Sinha,Sales Executive,BR117,20-12-24,
+EMP1201,Ishita Bera,Relationship Manager,BR122,04-11-24,Active
+EMP1202,Sana Bahl,Branch Manager,BR186,30-07-24,Active
+EMP1203,Heer Varghese,Relationship Manager,BR129,05-10-24,Active
+EMP1204,Urvi Aggarwal,Teller,BR112,28-05-24,
+EMP1205,Aniruddh Baria,Teller,BR129,18-12-24,Active
+EMP1206,Neelofar Thaman,Operations Manager,BR109,23-09-24,Active
+EMP1207,Nayantara Loyal,Credit Analyst,BR132,04-10-24,
+EMP1208,Shanaya Mander,Operations Manager,BR124,23-05-24,Active
+EMP1209,Aradhya Sura,Cashier,BR156,09-06-24,Resigned
+EMP1210,Zeeshan Kuruvilla,Operations Manager,BR152,08-05-24,Resigned
+EMP1211,Ojas Maharaj,Teller,BR237,21-09-24,Resigned
+EMP1212,Khushi Bali,Loan Officer,BR103,18-09-24,Resigned
+EMP1213,Diya Loyal,Sales Executive,BR167,23-11-24,Resigned
+EMP1214,Mannat Buch,Operations Manager,BR247,07-04-24,
+EMP1215,Hunar Sani,Sales Executive,BR223,09-11-24,
+EMP1216,Mohanlal Garg,Credit Analyst,BR195,12-09-24,Active
+EMP1217,Ira Sibal,Branch Manager,BR163,28-09-24,Resigned
+EMP1218,Neysa Balay,Assistant Manager,BR237,03-07-24,
+EMP1219,Kanav Ravel,Credit Analyst,BR193,14-11-24,Active
+EMP1220,Drishya Dugar,Sales Executive,BR158,18-03-25,Resigned
+EMP1221,Bhamini Saxena,Relationship Manager,BR115,30-09-24,Resigned
+EMP1222,Aaina Bhatia,Operations Manager,BR181,17-09-24,
+EMP1223,Nehmat Dewan,Teller,BR143,08-03-25,Active
+EMP1224,Alia Dhillon,Loan Officer,BR181,18-08-24,Resigned
+EMP1225,Badal Bhandari,Cashier,BR122,06-01-25,Active
+EMP1226,Emir Sarma,Teller,BR100,06-08-24,Resigned
+EMP1227,Khushi Tank,Customer Service Executive,BR249,05-04-24,Resigned
+EMP1228,Hansh Kunda,Sales Executive,BR237,25-06-24,
+EMP1229,Manjari Khanna,Sales Executive,BR164,25-01-25,Resigned
+EMP1230,Badal Raval,Relationship Manager,BR242,08-07-24,
+EMP1231,Lavanya Sinha,Branch Manager,BR185,12-03-25,
+EMP1232,Kimaya Kuruvilla,Cashier,BR165,30-03-25,Resigned
+EMP1233,Mannat Sangha,Credit Analyst,BR153,21-11-24,Resigned
+EMP1234,Vedika Samra,Cashier,BR167,17-02-25,Active
+EMP1235,Manikya Wagle,Relationship Manager,BR162,21-10-24,Resigned
+EMP1236,Ryan Bera,Relationship Manager,BR136,25-06-24,
+EMP1237,Divit Garde,Teller,BR159,22-07-24,Active
+EMP1238,Misha Varma,Loan Officer,BR182,08-08-24,Active
+EMP1239,Bhamini Goswami,Assistant Manager,BR192,07-08-24,
+EMP1240,Nirvi Dave,Relationship Manager,BR228,17-06-24,Resigned
+EMP1241,Trisha Hans,Customer Service Executive,BR145,22-11-24,Active
+EMP1242,Urvi Kant,Assistant Manager,BR176,01-09-24,Resigned
+EMP1243,Aradhya Khurana,Teller,BR197,29-01-25,Resigned
+EMP1244,Nitya Dhaliwal,Credit Analyst,BR132,02-02-25,Active
+EMP1245,Mahika Lata,Credit Analyst,BR188,23-11-24,Active
+EMP1246,Shlok Srinivas,Assistant Manager,BR248,23-07-24,Resigned
+EMP1247,Mohanlal Balay,Credit Analyst,BR219,08-11-24,Resigned
+EMP1248,Purab Kale,Operations Manager,BR110,08-09-24,Active
+EMP1249,Ehsaan Dhingra,Sales Executive,BR128,30-08-24,Resigned
+EMP1250,Veer Salvi,Branch Manager,BR245,27-04-24,Resigned
+EMP1251,Tanya Dua,Operations Manager,BR123,02-01-25,Resigned
+EMP1252,Amira Chaudhary,Teller,BR245,08-07-24,Resigned
+EMP1253,Aarush Mangal,Sales Executive,BR132,08-05-24,Active
+EMP1254,Trisha Batra,Teller,BR180,07-08-24,Active
+EMP1255,Aaina Banik,Branch Manager,BR193,20-07-24,Active
+EMP1256,Ela Ganesan,Credit Analyst,BR240,04-01-25,Active
+EMP1257,Pari Dhaliwal,Customer Service Executive,BR131,01-07-24,
+EMP1258,Saksham Majumdar,Assistant Manager,BR166,27-09-24,Resigned
+EMP1259,Zara Jani,Assistant Manager,BR154,22-02-25,
+EMP1260,Manikya Hegde,Cashier,BR117,09-09-24,Resigned
+EMP1261,Dharmajan Boase,Assistant Manager,BR222,22-10-24,
+EMP1262,Saksham Sandhu,Assistant Manager,BR148,20-05-24,Active
+EMP1263,Anya Bains,Teller,BR143,16-08-24,Resigned
+EMP1264,Hridaan Bakshi,Cashier,BR193,30-04-24,Active
+EMP1265,Kashvi Keer,Sales Executive,BR240,14-10-24,Resigned
+EMP1266,Vaibhav Raju,Customer Service Executive,BR126,26-08-24,Resigned
+EMP1267,Yashvi Mahajan,Assistant Manager,BR150,22-12-24,Active
+EMP1268,Hansh Srivastava,Relationship Manager,BR241,07-11-24,Resigned
+EMP1269,Amani Ganguly,Teller,BR133,05-07-24,
+EMP1270,Jivin Wagle,Teller,BR159,01-10-24,
+EMP1271,Aaina Behl,Operations Manager,BR136,02-08-24,Resigned
+EMP1272,Inaaya  Butala,Branch Manager,BR224,18-10-24,Active
+EMP1273,Indranil Guha,Sales Executive,BR247,01-11-24,
+EMP1274,Abram Chandra,Credit Analyst,BR194,20-09-24,
+EMP1275,Madhav Gill,Loan Officer,BR243,09-12-24,Active
+EMP1276,Onkar Bhatt,Customer Service Executive,BR221,22-11-24,
+EMP1277,Aarna Ramanathan,Sales Executive,BR198,06-06-24,Active
+EMP1278,Sumer Talwar,Credit Analyst,BR119,17-05-24,Resigned
+EMP1279,Umang Sachdeva,Assistant Manager,BR145,10-08-24,Active
+EMP1280,Damini Ghosh,Teller,BR200,11-05-24,
+EMP1281,Nitara Grewal,Credit Analyst,BR143,06-06-24,
+EMP1282,Rati Mand,Relationship Manager,BR247,04-08-24,Active
+EMP1283,Dharmajan Saxena,Branch Manager,BR109,30-11-24,
+EMP1284,Aarav Bawa,Operations Manager,BR124,20-04-24,Active
+EMP1285,Ivan Chana,Operations Manager,BR227,20-07-24,Resigned
+EMP1286,Heer Kari,Loan Officer,BR161,19-04-24,Resigned
+EMP1287,Siya Ganguly,Customer Service Executive,BR144,08-03-25,
+EMP1288,Inaaya  Mangat,Cashier,BR140,24-01-25,Active
+EMP1289,Akarsh Sharma,Relationship Manager,BR163,14-08-24,
+EMP1290,Ranbir Wadhwa,Cashier,BR162,23-01-25,
+EMP1291,Prerak Banik,Relationship Manager,BR111,29-10-24,Active
+EMP1292,Mohanlal Malhotra,Assistant Manager,BR212,30-03-25,
+EMP1293,Nitara Barad,Teller,BR248,22-09-24,
+EMP1294,Chirag Saran,Operations Manager,BR216,10-05-24,Resigned
+EMP1295,Nitara Jaggi,Loan Officer,BR104,22-11-24,Resigned
+EMP1296,Ivana Kara,Credit Analyst,BR201,27-10-24,Active
+EMP1297,Jayant Bhattacharyya,Teller,BR191,17-08-24,Active
+EMP1298,Faiyaz Doctor,Teller,BR110,22-03-25,Resigned
+EMP1299,Samarth Varghese,Customer Service Executive,BR127,23-02-25,Active
+EMP1300,Aarav Dasgupta,Cashier,BR111,10-03-25,Resigned
+EMP1301,Jivin Khatri,Relationship Manager,BR247,04-08-24,Resigned
+EMP1302,Shaan Singhal,Customer Service Executive,BR167,25-09-24,
+EMP1303,Adira Shroff,Branch Manager,BR130,23-04-24,
+EMP1304,Chirag Choudhury,Operations Manager,BR243,03-07-24,
+EMP1305,Himmat Thakur,Cashier,BR134,22-08-24,
+EMP1306,Advika Bhat,Customer Service Executive,BR184,13-11-24,
+EMP1307,Darshit Lata,Credit Analyst,BR195,28-09-24,Resigned
+EMP1308,Taran Borah,Customer Service Executive,BR244,11-10-24,Resigned
+EMP1309,Samaira Jain,Credit Analyst,BR244,06-05-24,
+EMP1310,Gatik Srinivas,Sales Executive,BR227,27-11-24,Active
+EMP1311,Prerak Badami,Customer Service Executive,BR143,25-04-24,Active
+EMP1312,Himmat Arya,Teller,BR110,05-11-24,
+EMP1313,Tiya Kar,Cashier,BR132,03-02-25,
+EMP1314,Romil Barad,Customer Service Executive,BR176,24-12-24,Active
+EMP1315,Samiha Bhattacharyya,Assistant Manager,BR104,09-11-24,Active
+EMP1316,Indranil Bahl,Assistant Manager,BR236,10-12-24,Resigned
+EMP1317,Heer Wadhwa,Assistant Manager,BR147,07-03-25,Resigned
+EMP1318,Riya Halder,Teller,BR195,08-01-25,Active
+EMP1319,Aaina Bhatti,Branch Manager,BR118,25-08-24,Active
+EMP1320,Purab Gola,Customer Service Executive,BR222,26-07-24,
+EMP1321,Zaina Mangat,Relationship Manager,BR109,18-05-24,
+EMP1322,Yuvaan Bakshi,Sales Executive,BR193,02-03-25,Resigned
+EMP1323,Shalv Rao,Credit Analyst,BR139,13-04-24,Active
+EMP1324,Rania Korpal,Assistant Manager,BR242,30-10-24,
+EMP1325,Yashvi Lata,Operations Manager,BR103,28-04-24,Resigned
+EMP1326,Stuvan Talwar,Sales Executive,BR237,23-11-24,
+EMP1327,Hazel Bakshi,Customer Service Executive,BR186,20-06-24,
+EMP1328,Parinaaz Bala,Branch Manager,BR124,29-08-24,
+EMP1329,Farhan Chandran,Customer Service Executive,BR133,13-11-24,
+EMP1330,Hridaan Bumb,Cashier,BR232,28-05-24,Active
+EMP1331,Ishaan Kala,Cashier,BR130,27-08-24,Resigned
+EMP1332,Uthkarsh Balasubramanian,Relationship Manager,BR114,14-09-24,Resigned
+EMP1333,Tara Dada,Loan Officer,BR239,09-06-24,Active
+EMP1334,Anahita Seshadri,Customer Service Executive,BR220,24-01-25,Resigned
+EMP1335,Pari Rastogi,Branch Manager,BR168,17-07-24,Active
+EMP1336,Veer Tandon,Loan Officer,BR165,13-12-24,Active
+EMP1337,Rasha Kala,Operations Manager,BR185,05-06-24,Active
+EMP1338,Indranil Kota,Relationship Manager,BR246,17-10-24,Active
+EMP1339,Nitya Sastry,Sales Executive,BR146,20-01-25,Resigned
+EMP1340,Dhruv Lal,Loan Officer,BR138,24-04-24,
+EMP1341,Dhanuk Anne,Teller,BR237,13-04-24,
+EMP1342,Inaaya  Sura,Loan Officer,BR156,01-01-25,
+EMP1343,Uthkarsh Tiwari,Customer Service Executive,BR173,12-06-24,
+EMP1344,Rhea Khalsa,Credit Analyst,BR180,08-05-24,
+EMP1345,Divit Boase,Relationship Manager,BR184,10-01-25,Active
+EMP1346,Ahana  Bhalla,Operations Manager,BR245,22-04-24,
+EMP1347,Jivin Upadhyay,Cashier,BR215,21-12-24,
+EMP1348,Vivaan Lall,Credit Analyst,BR207,05-04-24,Resigned
+EMP1349,Seher Date,Operations Manager,BR138,27-03-25,Active
+EMP1350,Miraan Handa,Assistant Manager,BR232,15-06-24,Resigned
+EMP1351,Ivana Toor,Operations Manager,BR123,15-06-24,Resigned
+EMP1352,Ranbir Kala,Sales Executive,BR139,30-05-24,Active
+EMP1353,Vidur Dugar,Branch Manager,BR123,05-07-24,Active
+EMP1354,Aayush Kapoor,Assistant Manager,BR111,30-11-24,
+EMP1355,Nirvaan Sibal,Sales Executive,BR106,04-12-24,Resigned
+EMP1356,Sahil Sarkar,Cashier,BR137,25-05-24,
+EMP1357,Nirvi Dara,Loan Officer,BR112,14-12-24,Resigned
+EMP1358,Shamik Mangal,Assistant Manager,BR214,22-06-24,
+EMP1359,Piya Bala,Sales Executive,BR243,19-05-24,Resigned
+EMP1360,Dishani Cherian,Relationship Manager,BR173,18-10-24,
+EMP1361,Indrajit Randhawa,Sales Executive,BR112,09-02-25,Resigned
+EMP1362,Hansh Seth,Teller,BR129,17-11-24,Resigned
+EMP1363,Romil Bhasin,Customer Service Executive,BR149,08-05-24,Resigned
+EMP1364,Mishti Saran,Relationship Manager,BR134,29-08-24,Active
+EMP1365,Alia Dalal,Assistant Manager,BR211,28-05-24,Resigned
+EMP1366,Siya Chokshi,Teller,BR222,14-08-24,
+EMP1367,Vihaan Jayaraman,Sales Executive,BR215,16-06-24,Resigned
+EMP1368,Rasha Deshmukh,Credit Analyst,BR194,10-09-24,
+EMP1369,Jivika Jhaveri,Cashier,BR125,11-01-25,Active
+EMP1370,Ayesha Chand,Relationship Manager,BR136,12-07-24,Resigned
+EMP1371,Chirag Shenoy,Branch Manager,BR116,14-04-24,Resigned
+EMP1372,Fateh Madan,Sales Executive,BR119,10-03-25,Active
+EMP1373,Yuvaan Sarna,Credit Analyst,BR105,01-10-24,Active
+EMP1374,Adah Gola,Sales Executive,BR140,22-06-24,Resigned
+EMP1375,Armaan Vyas,Loan Officer,BR119,13-04-24,Active
+EMP1376,Vardaniya Varghese,Cashier,BR172,26-09-24,
+EMP1377,Oorja Dhillon,Teller,BR215,16-01-25,
+EMP1378,Inaaya  Khanna,Customer Service Executive,BR211,08-02-25,
+EMP1379,Krish Badal,Cashier,BR116,14-10-24,Active
+EMP1380,Nehmat Wagle,Credit Analyst,BR199,01-11-24,Active
+EMP1381,Raghav Wadhwa,Relationship Manager,BR135,25-01-25,
+EMP1382,Diya Basak,Branch Manager,BR185,01-10-24,
+EMP1383,Fateh Gopal,Assistant Manager,BR211,16-11-24,Resigned
+EMP1384,Yasmin Kalla,Relationship Manager,BR119,27-09-24,
+EMP1385,Vihaan Chopra,Branch Manager,BR214,21-06-24,
+EMP1386,Shamik Bhatti,Cashier,BR134,14-12-24,Active
+EMP1387,Renee Ranganathan,Loan Officer,BR237,22-03-25,
+EMP1388,Nirvaan Sandhu,Relationship Manager,BR148,11-06-24,Active
+EMP1389,Divit Khatri,Loan Officer,BR156,12-12-24,
+EMP1390,Faiyaz Bhattacharyya,Credit Analyst,BR113,26-02-25,
+EMP1391,Darshit Batra,Sales Executive,BR156,10-02-25,Resigned
+EMP1392,Madhup Bala,Operations Manager,BR193,09-09-24,Active
+EMP1393,Emir Arya,Customer Service Executive,BR174,06-06-24,Active
+EMP1394,Ira Dixit,Loan Officer,BR175,21-04-24,
+EMP1395,Saanvi Jain,Operations Manager,BR153,26-09-24,Resigned
+EMP1396,Saksham Chana,Loan Officer,BR185,25-02-25,Resigned
+EMP1397,Vaibhav Bhatia,Operations Manager,BR222,22-06-24,Resigned
+EMP1398,Romil Sibal,Credit Analyst,BR236,14-06-24,
+EMP1399,Saksham Chaudhuri,Operations Manager,BR106,02-12-24,
+EMP1400,Lagan Jaggi,Credit Analyst,BR108,05-06-24,Resigned
+EMP1401,Oorja Iyer,Teller,BR178,30-06-24,Active
+EMP1402,Shayak Anand,Branch Manager,BR124,21-08-24,Active
+EMP1403,Biju Khurana,Branch Manager,BR146,07-07-24,Resigned
+EMP1404,Sara Bhakta,Cashier,BR235,15-08-24,
+EMP1405,Mohanlal Das,Assistant Manager,BR188,05-09-24,Resigned
+EMP1406,Krish Sheth,Relationship Manager,BR128,05-08-24,Active
+EMP1407,Anahi Yohannan,Credit Analyst,BR168,19-10-24,Resigned
+EMP1408,Tarini Dani,Sales Executive,BR171,20-02-25,
+EMP1409,Kavya Aurora,Operations Manager,BR239,04-05-24,
+EMP1410,Jayant Bali,Credit Analyst,BR101,27-02-25,
+EMP1411,Anay Dubey,Relationship Manager,BR155,21-03-25,Resigned
+EMP1412,Indranil Ramachandran,Customer Service Executive,BR216,24-11-24,
+EMP1413,Vanya Bassi,Credit Analyst,BR203,25-08-24,Active
+EMP1414,Vaibhav Sangha,Operations Manager,BR164,03-04-24,Active
+EMP1415,Rania Salvi,Cashier,BR161,07-07-24,Resigned
+EMP1416,Jayesh Chakrabarti,Loan Officer,BR162,09-10-24,Active
+EMP1417,Shlok Doctor,Relationship Manager,BR179,19-12-24,Active
+EMP1418,Rania Balan,Customer Service Executive,BR124,25-05-24,Active
+EMP1419,Ryan Karpe,Operations Manager,BR169,10-07-24,
+EMP1420,Ivan Gade,Branch Manager,BR178,26-06-24,Active
+EMP1421,Pihu Dasgupta,Sales Executive,BR136,05-08-24,
+EMP1422,Badal Loyal,Credit Analyst,BR224,21-01-25,
+EMP1423,Rhea Sharaf,Branch Manager,BR179,06-05-24,
+EMP1424,Divij Raval,Sales Executive,BR238,22-12-24,
+EMP1425,Parinaaz Karan,Operations Manager,BR122,17-08-24,
+EMP1426,Lakshay Zacharia,Operations Manager,BR174,03-07-24,
+EMP1427,Anya Vasa,Teller,BR121,03-10-24,Resigned
+EMP1428,Farhan Banerjee,Credit Analyst,BR123,13-02-25,
+EMP1429,Vihaan Garg,Teller,BR162,09-06-24,Resigned
+EMP1430,Vedika Solanki,Teller,BR185,02-11-24,Active
+EMP1431,Inaaya  Jain,Sales Executive,BR205,21-06-24,Resigned
+EMP1432,Kiaan Sachdev,Cashier,BR105,12-07-24,Resigned
+EMP1433,Anvi Mane,Sales Executive,BR168,19-12-24,Resigned
+EMP1434,Neysa Kothari,Teller,BR240,02-09-24,Resigned
+EMP1435,Rati Kohli,Customer Service Executive,BR109,13-06-24,Active
+EMP1436,Yuvraj  Cherian,Customer Service Executive,BR237,11-09-24,Resigned
+EMP1437,Adira Grover,Cashier,BR189,02-08-24,Active
+EMP1438,Veer Thaker,Branch Manager,BR242,25-11-24,Active
+EMP1439,Kashvi Joshi,Cashier,BR172,27-03-25,Resigned
+EMP1440,Taran Biswas,Teller,BR170,06-04-24,
+EMP1441,Divyansh Gole,Operations Manager,BR204,18-06-24,Resigned
+EMP1442,Vanya Kakar,Loan Officer,BR139,07-03-25,Resigned
+EMP1443,Eshani Wason,Cashier,BR203,30-11-24,Active
+EMP1444,Shaan Mammen,Sales Executive,BR156,05-10-24,Resigned
+EMP1445,Uthkarsh Khurana,Operations Manager,BR172,13-11-24,
+EMP1446,Abram Bakshi,Credit Analyst,BR219,12-07-24,Resigned
+EMP1447,Miraan Sarraf,Sales Executive,BR155,02-08-24,Resigned
+EMP1448,Eva Ram,Teller,BR242,28-09-24,Active
+EMP1449,Dharmajan Wable,Branch Manager,BR101,29-08-24,
+EMP1450,Abram Khare,Credit Analyst,BR218,10-02-25,Active
+EMP1451,Ahana  Jain,Teller,BR223,02-03-25,Resigned
+EMP1452,Myra Master,Relationship Manager,BR240,02-04-24,
+EMP1453,Adira Das,Assistant Manager,BR189,04-10-24,
+EMP1454,Lagan Sant,Cashier,BR114,13-07-24,
+EMP1455,Nirvaan Char,Customer Service Executive,BR162,11-08-24,
+EMP1456,Shalv Sawhney,Cashier,BR236,29-05-24,
+EMP1457,Riaan Bhatnagar,Loan Officer,BR169,05-12-24,
+EMP1458,Advik Badal,Branch Manager,BR152,26-03-25,Active
+EMP1459,Alia Basak,Cashier,BR111,22-08-24,
+EMP1460,Manjari Jha,Sales Executive,BR242,01-11-24,
+EMP1461,Dharmajan Johal,Sales Executive,BR137,18-08-24,Resigned
+EMP1462,Aaryahi Sandhu,Relationship Manager,BR154,28-05-24,Resigned
+EMP1463,Riya Cheema,Cashier,BR185,29-05-24,Resigned
+EMP1464,Miraya Dar,Operations Manager,BR183,04-01-25,
+EMP1465,Saksham Lalla,Relationship Manager,BR156,19-07-24,Active
+EMP1466,Riya Acharya,Assistant Manager,BR168,18-01-25,
+EMP1467,Arhaan Mangal,Teller,BR127,11-07-24,Resigned
+EMP1468,Mamooty Devi,Teller,BR199,21-04-24,
+EMP1469,Krish Kari,Loan Officer,BR183,27-08-24,Resigned
+EMP1470,Tara Doctor,Customer Service Executive,BR140,15-04-24,
+EMP1471,Gokul Mangat,Cashier,BR132,15-08-24,
+EMP1472,Vivaan Kulkarni,Sales Executive,BR190,14-05-24,Resigned
+EMP1473,Devansh Dube,Branch Manager,BR115,21-10-24,Resigned
+EMP1474,Aradhya Solanki,Loan Officer,BR108,19-12-24,Active
+EMP1475,Zara Kalla,Credit Analyst,BR197,29-08-24,Active
+EMP1476,Jiya Bumb,Credit Analyst,BR235,02-04-24,
+EMP1477,Miraya Dube,Branch Manager,BR115,07-01-25,Resigned
+EMP1478,Eshani Dada,Operations Manager,BR235,20-02-25,Resigned
+EMP1479,Tanya Basu,Cashier,BR101,03-07-24,Active
+EMP1480,Lagan Hans,Assistant Manager,BR231,23-10-24,
+EMP1481,Vaibhav Kadakia,Assistant Manager,BR152,08-06-24,
+EMP1482,Azad Goyal,Teller,BR237,14-03-25,Active
+EMP1483,Kimaya Khalsa,Relationship Manager,BR119,26-12-24,Resigned
+EMP1484,Himmat Sami,Loan Officer,BR229,29-01-25,Resigned
+EMP1485,Yakshit Dhar,Credit Analyst,BR126,09-09-24,Resigned
+EMP1486,Hazel Chahal,Cashier,BR177,19-11-24,Resigned
+EMP1487,Divit Sunder,Operations Manager,BR169,15-08-24,Active
+EMP1488,Dishani Sengupta,Sales Executive,BR249,04-10-24,
+EMP1489,Adah Kota,Credit Analyst,BR119,29-05-24,
+EMP1490,Pranay Kumar,Credit Analyst,BR107,27-12-24,Active
+EMP1491,Rania Raja,Relationship Manager,BR235,01-02-25,Active
+EMP1492,Jayan Bahl,Loan Officer,BR195,17-07-24,Resigned
+EMP1493,Nirvaan Roy,Branch Manager,BR144,14-09-24,Active
+EMP1494,Shray Iyer,Credit Analyst,BR166,01-06-24,Resigned
+EMP1495,Myra Rau,Credit Analyst,BR171,03-11-24,Active
+EMP1496,Khushi Randhawa,Cashier,BR120,02-12-24,Resigned
+EMP1497,Zoya Chandran,Cashier,BR249,09-04-24,
+EMP1498,Krish Dutta,Sales Executive,BR217,25-06-24,Active
+EMP1499,Romil Arya,Relationship Manager,BR202,20-03-25,Active
+EMP1500,Rati Dass,Assistant Manager,BR236,29-06-24,
+EMP1501,Romil Sankar,Operations Manager,BR157,16-11-24,Resigned
+EMP1502,Rhea Samra,Customer Service Executive,BR181,25-02-25,
+EMP1503,Nayantara Kala,Customer Service Executive,BR205,14-03-25,
+EMP1504,Zaina Chadha,Customer Service Executive,BR193,09-12-24,
+EMP1505,Ivan Rao,Loan Officer,BR131,26-10-24,
+EMP1506,Inaaya  Roy,Sales Executive,BR182,19-06-24,Resigned
+EMP1507,Zoya Bhakta,Relationship Manager,BR211,18-03-25,Resigned
+EMP1508,Prisha Loyal,Assistant Manager,BR139,07-08-24,Active
+EMP1509,Ishaan Wason,Teller,BR120,19-03-25,Active
+EMP1510,Shamik Cherian,Teller,BR157,20-04-24,
+EMP1511,Shaan Dayal,Operations Manager,BR247,09-05-24,
+EMP1512,Manikya Arora,Relationship Manager,BR104,07-10-24,
+EMP1513,Piya Deshpande,Assistant Manager,BR150,29-10-24,
+EMP1514,Stuvan Iyengar,Assistant Manager,BR180,05-03-25,
+EMP1515,Ivana Dash,Sales Executive,BR237,06-04-24,Resigned
+EMP1516,Sahil Deep,Cashier,BR194,25-10-24,Resigned
+EMP1517,Vidur Arya,Loan Officer,BR160,23-08-24,Active
+EMP1518,Taran Jain,Cashier,BR226,17-05-24,Resigned
+EMP1519,Zaina Ranganathan,Teller,BR109,16-02-25,
+EMP1520,Tejas Sahni,Relationship Manager,BR176,17-01-25,Active
+EMP1521,Yuvaan Kunda,Teller,BR247,17-08-24,Resigned
+EMP1522,Drishya Chaudhari,Branch Manager,BR118,26-05-24,Active
+EMP1523,Nirvi Wali,Loan Officer,BR171,05-08-24,Resigned
+EMP1524,Shaan Hayer,Relationship Manager,BR144,21-04-24,Active
+EMP1525,Vardaniya Mane,Customer Service Executive,BR177,05-01-25,
+EMP1526,Advika Sheth,Teller,BR207,03-05-24,
+EMP1527,Hazel Date,Cashier,BR180,08-04-24,Active
+EMP1528,Elakshi Krishna,Customer Service Executive,BR163,25-11-24,Active
+EMP1529,Tara Lanka,Branch Manager,BR189,02-06-24,
+EMP1530,Kiaan Chaudhary,Relationship Manager,BR133,11-09-24,Active
+EMP1531,Hazel Jain,Credit Analyst,BR217,30-01-25,Active
+EMP1532,Onkar Chander,Sales Executive,BR134,05-03-25,Resigned
+EMP1533,Bhamini Yohannan,Loan Officer,BR100,29-01-25,Resigned
+EMP1534,Miraan Bhakta,Operations Manager,BR109,28-01-25,
+EMP1535,Ryan Zacharia,Credit Analyst,BR172,03-02-25,Active
+EMP1536,Lakshit Cheema,Branch Manager,BR134,08-05-24,
+EMP1537,Anay Khalsa,Teller,BR155,18-07-24,Active
+EMP1538,Samarth Badal,Loan Officer,BR206,15-12-24,Active
+EMP1539,Aayush Dugar,Cashier,BR151,01-06-24,Active
+EMP1540,Samiha Kamdar,Relationship Manager,BR115,18-02-25,Active
+EMP1541,Nakul Sahni,Sales Executive,BR156,03-04-24,
+EMP1542,Mishti Mahal,Customer Service Executive,BR179,11-03-25,Resigned
+EMP1543,Tushar Ratta,Branch Manager,BR141,01-12-24,Active
+EMP1544,Fateh Ahluwalia,Cashier,BR152,01-04-24,Resigned
+EMP1545,Tarini Garde,Teller,BR109,20-01-25,Active
+EMP1546,Dishani Setty,Sales Executive,BR231,08-07-24,
+EMP1547,Yashvi Agate,Relationship Manager,BR248,26-08-24,Active
+EMP1548,Dhanush Sinha,Relationship Manager,BR234,03-03-25,Active
+EMP1549,Dhanuk Bhatt,Relationship Manager,BR209,06-09-24,
+EMP1550,Armaan Sagar,Customer Service Executive,BR212,10-08-24,Active
+EMP1551,Romil Bava,Branch Manager,BR202,27-08-24,Active
+EMP1552,Ritvik Chaudhry,Cashier,BR118,25-02-25,Active
+EMP1553,Kismat Amble,Cashier,BR223,31-01-25,Active
+EMP1554,Vedika Walia,Credit Analyst,BR230,10-01-25,
+EMP1555,Aaina Tara,Credit Analyst,BR221,06-12-24,
+EMP1556,Advik Som,Sales Executive,BR101,10-08-24,
+EMP1557,Sahil Rajan,Branch Manager,BR159,21-04-24,Resigned
+EMP1558,Taimur Ram,Sales Executive,BR132,22-07-24,Active
+EMP1559,Dhruv Johal,Teller,BR136,23-12-24,Active
+EMP1560,Ishita Dass,Customer Service Executive,BR203,12-06-24,
+EMP1561,Sana Bhatti,Sales Executive,BR129,09-09-24,Active
+EMP1562,Ela Walla,Assistant Manager,BR228,26-03-25,
+EMP1563,Tanya Banik,Credit Analyst,BR133,18-04-24,Active
+EMP1564,Jhanvi Chopra,Operations Manager,BR142,25-11-24,
+EMP1565,Aarna Shere,Relationship Manager,BR123,20-03-25,
+EMP1566,Manikya Maharaj,Loan Officer,BR237,09-10-24,Active
+EMP1567,Pari Borra,Branch Manager,BR158,15-09-24,Active
+EMP1568,Shamik Sankaran,Assistant Manager,BR206,22-05-24,Resigned
+EMP1569,Adah Kothari,Loan Officer,BR191,02-08-24,Resigned
+EMP1570,Alisha Balasubramanian,Customer Service Executive,BR184,06-04-24,
+EMP1571,Khushi Brar,Assistant Manager,BR245,11-03-25,
+EMP1572,Veer Kamdar,Cashier,BR183,18-04-24,Active
+EMP1573,Hansh Bal,Teller,BR249,06-09-24,
+EMP1574,Rati Deo,Loan Officer,BR161,11-10-24,
+EMP1575,Amira Khare,Cashier,BR195,10-09-24,Resigned
+EMP1576,Badal Lanka,Sales Executive,BR204,08-11-24,Resigned
+EMP1577,Zara Jani,Operations Manager,BR148,30-03-25,Active
+EMP1578,Devansh Kala,Relationship Manager,BR158,12-11-24,Resigned
+EMP1579,Samarth Jayaraman,Sales Executive,BR227,19-05-24,
+EMP1580,Yakshit Sood,Relationship Manager,BR199,19-07-24,Resigned
+EMP1581,Rania Cherian,Relationship Manager,BR177,30-11-24,Active
+EMP1582,Jhanvi Dugar,Cashier,BR231,10-09-24,Resigned
+EMP1583,Vedika Contractor,Credit Analyst,BR166,16-12-24,Resigned
+EMP1584,Saanvi Bains,Loan Officer,BR161,25-10-24,Active
+EMP1585,Prisha Soni,Cashier,BR210,12-04-24,
+EMP1586,Ayesha Gill,Branch Manager,BR182,02-02-25,Active
+EMP1587,Lakshay Thakkar,Credit Analyst,BR231,14-01-25,
+EMP1588,Jhanvi Kibe,Teller,BR147,18-12-24,
+EMP1589,Emir Dora,Operations Manager,BR162,13-07-24,Resigned
+EMP1590,Darshit Kaul,Sales Executive,BR131,03-05-24,Resigned
+EMP1591,Hunar Kala,Assistant Manager,BR203,18-04-24,Resigned
+EMP1592,Aarav Chaudhuri,Teller,BR195,30-07-24,Resigned
+EMP1593,Kiara Deshmukh,Customer Service Executive,BR230,27-06-24,Active
+EMP1594,Heer Manda,Operations Manager,BR243,05-07-24,
+EMP1595,Ivan Sule,Teller,BR145,31-07-24,Resigned
+EMP1596,Dhanuk Chana,Relationship Manager,BR178,22-05-24,Active
+EMP1597,Jivin Chandra,Credit Analyst,BR104,14-09-24,Active
+EMP1598,Vidur Khare,Assistant Manager,BR170,19-06-24,
+EMP1599,Ishaan Sehgal,Loan Officer,BR202,26-04-24,
+EMP1600,Rhea Desai,Operations Manager,BR248,19-10-24,Resigned
+EMP1601,Navya Datta,Relationship Manager,BR122,16-04-24,Active
+EMP1602,Ehsaan Dhaliwal,Teller,BR233,06-03-25,Active
+EMP1603,Zain Madan,Credit Analyst,BR229,26-06-24,Resigned
+EMP1604,Sara Keer,Sales Executive,BR101,19-02-25,Active
+EMP1605,Amira Bera,Assistant Manager,BR249,12-09-24,Active
+EMP1606,Ahana  Shankar,Loan Officer,BR245,12-03-25,Resigned
+EMP1607,Ivan Sawhney,Relationship Manager,BR175,06-08-24,Resigned
+EMP1608,Kashvi Bahri,Customer Service Executive,BR249,12-03-25,Resigned
+EMP1609,Shray Bose,Operations Manager,BR184,19-01-25,
+EMP1610,Hunar Lal,Cashier,BR123,11-02-25,
+EMP1611,Gatik Chandra,Assistant Manager,BR119,13-06-24,Resigned
+EMP1612,Biju Doshi,Branch Manager,BR210,12-04-24,Resigned
+EMP1613,Ishita Ramakrishnan,Loan Officer,BR164,09-03-25,Active
+EMP1614,Ayesha Mangat,Sales Executive,BR171,19-03-25,
+EMP1615,Aarav Warrior,Credit Analyst,BR205,10-05-24,Active
+EMP1616,Siya Kothari,Relationship Manager,BR164,10-11-24,Resigned
+EMP1617,Sara Tak,Loan Officer,BR242,06-10-24,Active
+EMP1618,Umang Bhatnagar,Teller,BR173,10-05-24,Resigned
+EMP1619,Neysa Sachdeva,Branch Manager,BR180,08-10-24,Resigned
+EMP1620,Parinaaz Ramaswamy,Branch Manager,BR231,26-10-24,Resigned
+EMP1621,Myra Varty,Customer Service Executive,BR166,17-06-24,Resigned
+EMP1622,Stuvan Dube,Operations Manager,BR140,31-07-24,Active
+EMP1623,Kaira Borde,Branch Manager,BR141,10-06-24,Active
+EMP1624,Vihaan Das,Credit Analyst,BR218,06-09-24,
+EMP1625,Misha Lal,Customer Service Executive,BR128,01-05-24,Resigned
+EMP1626,Raunak Bava,Cashier,BR205,31-01-25,Active
+EMP1627,Aaryahi Rajagopal,Branch Manager,BR220,20-03-25,Resigned
+EMP1628,Tanya Sunder,Teller,BR238,29-10-24,Active
+EMP1629,Mannat Sahni,Cashier,BR146,19-01-25,Active
+EMP1630,Eshani Bhasin,Assistant Manager,BR148,08-06-24,
+EMP1631,Vanya Boase,Relationship Manager,BR231,29-03-25,Active
+EMP1632,Anvi Chandra,Loan Officer,BR184,08-06-24,Active
+EMP1633,Advik Raju,Cashier,BR224,16-09-24,Resigned
+EMP1634,Mamooty Bir,Sales Executive,BR216,30-07-24,Resigned
+EMP1635,Hunar Dutta,Assistant Manager,BR230,12-03-25,
+EMP1636,Siya Sagar,Relationship Manager,BR210,18-01-25,
+EMP1637,Yakshit Mallick,Operations Manager,BR104,24-11-24,Resigned
+EMP1638,Kismat Chauhan,Cashier,BR205,24-09-24,Active
+EMP1639,Vritika D’Alia,Assistant Manager,BR117,17-04-24,Resigned
+EMP1640,Nishith Raja,Loan Officer,BR209,07-05-24,Resigned
+EMP1641,Adah Malhotra,Assistant Manager,BR104,22-09-24,Resigned
+EMP1642,Pranay Goel,Branch Manager,BR231,24-08-24,Active
+EMP1643,Pari Suri,Cashier,BR236,20-04-24,
+EMP1644,Indranil Dave,Cashier,BR248,20-08-24,Active
+EMP1645,Krish Srinivas,Loan Officer,BR189,30-12-24,Resigned
+EMP1646,Darshit Gala,Assistant Manager,BR240,03-09-24,
+EMP1647,Advika Toor,Loan Officer,BR117,24-05-24,
+EMP1648,Shlok Bhargava,Operations Manager,BR102,25-01-25,
+EMP1649,Jivin Krishna,Customer Service Executive,BR214,21-06-24,Resigned
+EMP1650,Sana Hari,Operations Manager,BR135,26-08-24,Active
+EMP1651,Aayush Bandi,Credit Analyst,BR150,15-04-24,
+EMP1652,Madhup Borah,Branch Manager,BR104,10-11-24,Active
+EMP1653,Zeeshan Dass,Operations Manager,BR178,28-03-25,
+EMP1654,Oorja Sarna,Assistant Manager,BR217,29-09-24,
+EMP1655,Indranil Mahajan,Branch Manager,BR117,26-09-24,Resigned
+EMP1656,Ivan Thakur,Sales Executive,BR169,25-10-24,Active
+EMP1657,Anvi Khurana,Customer Service Executive,BR171,16-05-24,
+EMP1658,Abram Konda,Sales Executive,BR141,15-05-24,
+EMP1659,Mishti Halder,Relationship Manager,BR204,14-02-25,
+EMP1660,Lavanya Banik,Loan Officer,BR159,03-03-25,Active
+EMP1661,Onkar Ganesan,Teller,BR230,15-01-25,Resigned
+EMP1662,Fateh Dayal,Loan Officer,BR169,28-03-25,Resigned
+EMP1663,Hunar Mall,Customer Service Executive,BR238,24-03-25,Resigned
+EMP1664,Ahana  Samra,Operations Manager,BR156,28-08-24,Resigned
+EMP1665,Khushi Banik,Operations Manager,BR185,15-03-25,Active
+EMP1666,Piya Gupta,Sales Executive,BR229,14-12-24,Resigned
+EMP1667,Stuvan Korpal,Relationship Manager,BR172,12-11-24,Resigned
+EMP1668,Nitya Soni,Sales Executive,BR214,19-08-24,Resigned
+EMP1669,Zeeshan Bajwa,Sales Executive,BR183,10-04-24,Active
+EMP1670,Nehmat Babu,Teller,BR209,09-09-24,Resigned
+EMP1671,Amira Dugar,Sales Executive,BR139,24-10-24,
+EMP1672,Raunak Hayre,Sales Executive,BR175,31-05-24,
+EMP1673,Renee Tandon,Operations Manager,BR117,29-09-24,
+EMP1674,Advik Wadhwa,Branch Manager,BR115,15-06-24,
+EMP1675,Vritika Zachariah,Credit Analyst,BR107,16-11-24,
+EMP1676,Shaan Wadhwa,Relationship Manager,BR173,07-04-24,Resigned
+EMP1677,Samaira Bhagat,Cashier,BR213,05-12-24,Resigned
+EMP1678,Baiju Bhagat,Branch Manager,BR163,02-09-24,Active
+EMP1679,Alisha Vora,Credit Analyst,BR221,19-09-24,Active
+EMP1680,Tejas Vora,Relationship Manager,BR100,19-01-25,Resigned
+EMP1681,Lagan Chowdhury,Assistant Manager,BR220,10-12-24,Resigned
+EMP1682,Mehul Chowdhury,Cashier,BR159,17-10-24,
+EMP1683,Abram Ahuja,Assistant Manager,BR246,14-09-24,Active
+EMP1684,Rati Kala,Teller,BR132,15-01-25,Resigned
+EMP1685,Saanvi Wadhwa,Customer Service Executive,BR229,11-12-24,
+EMP1686,Pari Sant,Cashier,BR166,29-08-24,Resigned
+EMP1687,Azad Bail,Customer Service Executive,BR169,19-07-24,
+EMP1688,Urvi Dyal,Customer Service Executive,BR110,07-04-24,Active
+EMP1689,Nishith Agate,Sales Executive,BR224,27-12-24,Resigned
+EMP1690,Ehsaan Kala,Operations Manager,BR204,09-02-25,Active
+EMP1691,Aayush Sule,Operations Manager,BR125,02-05-24,Active
+EMP1692,Vivaan Dube,Operations Manager,BR104,23-10-24,Active
+EMP1693,Himmat Sidhu,Sales Executive,BR213,08-04-24,
+EMP1694,Onkar Shanker,Credit Analyst,BR184,19-04-24,Active
+EMP1695,Jivika Vora,Loan Officer,BR225,31-12-24,
+EMP1696,Samaira Shenoy,Operations Manager,BR157,31-01-25,Active
+EMP1697,Vivaan Issac,Sales Executive,BR247,02-03-25,
+EMP1698,Armaan Batra,Branch Manager,BR176,11-06-24,Resigned
+EMP1699,Chirag Ravi,Sales Executive,BR134,22-08-24,
+EMP1700,Onkar Ganesh,Sales Executive,BR145,12-12-24,Active
+EMP1701,Zaina Badami,Customer Service Executive,BR134,25-08-24,Active
+EMP1702,Arhaan Ramachandran,Operations Manager,BR226,05-05-24,
+EMP1703,Keya Dhar,Credit Analyst,BR117,27-10-24,Resigned
+EMP1704,Kiaan Khosla,Branch Manager,BR191,28-11-24,Active
+EMP1705,Pari Suri,Operations Manager,BR161,12-05-24,Resigned
+EMP1706,Charvi Ahuja,Sales Executive,BR188,04-06-24,Active
+EMP1707,Saanvi Tata,Customer Service Executive,BR220,19-12-24,
+EMP1708,Prisha Singh,Loan Officer,BR240,16-04-24,Active
+EMP1709,Tanya Dave,Relationship Manager,BR183,16-09-24,Resigned
+EMP1710,Samar Sen,Sales Executive,BR189,05-02-25,Resigned
+EMP1711,Adah Garde,Cashier,BR103,21-08-24,Active
+EMP1712,Kashvi Sethi,Branch Manager,BR166,14-12-24,Resigned
+EMP1713,Uthkarsh Deo,Sales Executive,BR175,11-03-25,Resigned
+EMP1714,Aarna Sarraf,Operations Manager,BR131,10-04-24,Resigned
+EMP1715,Devansh Ram,Assistant Manager,BR203,20-10-24,Resigned
+EMP1716,Vivaan Sem,Customer Service Executive,BR159,01-09-24,
+EMP1717,Pranay Dhawan,Relationship Manager,BR213,27-09-24,
+EMP1718,Kaira Viswanathan,Assistant Manager,BR168,30-07-24,Active
+EMP1719,Himmat Bhasin,Relationship Manager,BR219,09-09-24,
+EMP1720,Damini Roy,Cashier,BR245,29-03-25,Active
+EMP1721,Lagan Atwal,Credit Analyst,BR242,18-12-24,Resigned
+EMP1722,Manikya Lala,Cashier,BR202,04-03-25,Resigned
+EMP1723,Shray Verma,Branch Manager,BR106,23-02-25,Resigned
+EMP1724,Zoya Dalal,Teller,BR106,26-11-24,Resigned
+EMP1725,Prerak Goda,Cashier,BR129,30-05-24,
+EMP1726,Misha Srivastava,Loan Officer,BR222,23-11-24,Resigned
+EMP1727,Keya Keer,Operations Manager,BR227,04-05-24,Resigned
+EMP1728,Zara Borra,Customer Service Executive,BR179,15-04-24,
+EMP1729,Vanya Shanker,Cashier,BR219,26-10-24,Active
+EMP1730,Prisha Wable,Assistant Manager,BR117,09-07-24,Active
+EMP1731,Shalv Mangat,Relationship Manager,BR247,07-07-24,Active
+EMP1732,Ojas Madan,Operations Manager,BR163,05-07-24,Active
+EMP1733,Divyansh Varughese,Branch Manager,BR157,19-04-24,
+EMP1734,Mohanlal Konda,Assistant Manager,BR217,24-01-25,Active
+EMP1735,Sumer Kuruvilla,Assistant Manager,BR240,01-10-24,Resigned
+EMP1736,Hansh Manne,Branch Manager,BR109,18-05-24,
+EMP1737,Kartik Bahri,Credit Analyst,BR154,31-10-24,Active
+EMP1738,Nitara Mahal,Customer Service Executive,BR143,17-04-24,Active
+EMP1739,Anay Chander,Sales Executive,BR119,02-07-24,Resigned
+EMP1740,Trisha Bhatnagar,Cashier,BR185,30-10-24,
+EMP1741,Nayantara Wadhwa,Teller,BR215,24-10-24,Active
+EMP1742,Yasmin Lalla,Branch Manager,BR242,23-12-24,Resigned
+EMP1743,Alisha Krishna,Assistant Manager,BR179,01-06-24,
+EMP1744,Kavya Chakraborty,Relationship Manager,BR216,22-09-24,
+EMP1745,Fateh Andra,Teller,BR167,22-04-24,
+EMP1746,Zoya Grewal,Teller,BR232,21-08-24,Resigned
+EMP1747,Purab Sheth,Customer Service Executive,BR177,06-05-24,
+EMP1748,Renee Dugal,Sales Executive,BR177,30-11-24,Active
+EMP1749,Anika Mangal,Loan Officer,BR152,12-01-25,
+EMP1750,Nakul Wali,Assistant Manager,BR119,03-12-24,Resigned
+EMP1751,Nakul Keer,Customer Service Executive,BR161,13-03-25,
+EMP1752,Divyansh Golla,Cashier,BR241,10-04-24,Resigned
+EMP1753,Anya Bumb,Loan Officer,BR171,26-05-24,
+EMP1754,Raunak Sidhu,Sales Executive,BR182,30-07-24,Active
+EMP1755,Lagan Shah,Sales Executive,BR156,29-03-25,Active
+EMP1756,Zaina Gade,Teller,BR103,09-06-24,
+EMP1757,Raghav Bajwa,Teller,BR121,19-12-24,Active
+EMP1758,Ira Viswanathan,Branch Manager,BR127,21-01-25,
+EMP1759,Emir Gour,Branch Manager,BR211,22-03-25,Resigned
+EMP1760,Nishith Saha,Operations Manager,BR104,28-02-25,Active
+EMP1761,Riaan Kale,Credit Analyst,BR138,19-04-24,Active
+EMP1762,Anaya Sunder,Sales Executive,BR116,29-05-24,Active
+EMP1763,Ojas Datta,Sales Executive,BR142,03-05-24,Active
+EMP1764,Umang Butala,Sales Executive,BR169,16-02-25,
+EMP1765,Trisha Khanna,Relationship Manager,BR140,11-12-24,Resigned
+EMP1766,Piya Kapadia,Customer Service Executive,BR138,26-02-25,
+EMP1767,Samar Mahal,Loan Officer,BR220,19-08-24,Resigned
+EMP1768,Nitara Saha,Operations Manager,BR129,22-09-24,
+EMP1769,Ishita Bera,Operations Manager,BR201,21-10-24,
+EMP1770,Stuvan Krish,Relationship Manager,BR162,29-08-24,Active
+EMP1771,Jiya Dixit,Customer Service Executive,BR170,20-09-24,Active
+EMP1772,Taimur Brahmbhatt,Branch Manager,BR230,10-01-25,
+EMP1773,Anvi Salvi,Credit Analyst,BR200,09-04-24,
+EMP1774,Stuvan Kakar,Assistant Manager,BR189,03-12-24,
+EMP1775,Sara Kadakia,Sales Executive,BR212,12-11-24,
+EMP1776,Raghav Bansal,Loan Officer,BR203,17-09-24,
+EMP1777,Dishani Biswas,Credit Analyst,BR102,03-01-25,Resigned
+EMP1778,Mishti Kota,Loan Officer,BR184,10-08-24,
+EMP1779,Mamooty Barad,Branch Manager,BR239,22-07-24,Resigned
+EMP1780,Taimur Suri,Cashier,BR152,13-06-24,
+EMP1781,Yakshit Bhatti,Teller,BR219,02-08-24,Active
+EMP1782,Tara Dayal,Sales Executive,BR188,19-10-24,
+EMP1783,Fateh Madan,Credit Analyst,BR199,01-09-24,
+EMP1784,Madhup Varty,Sales Executive,BR183,22-08-24,Active
+EMP1785,Tejas Chokshi,Assistant Manager,BR183,13-09-24,Active
+EMP1786,Pihu Bhat,Relationship Manager,BR192,14-09-24,
+EMP1787,Aarush Batta,Cashier,BR159,05-09-24,
+EMP1788,Khushi Yogi,Cashier,BR162,03-08-24,
+EMP1789,Yakshit Lal,Assistant Manager,BR241,18-03-25,Resigned
+EMP1790,Aradhya Wadhwa,Branch Manager,BR136,13-04-24,Resigned
+EMP1791,Mohanlal Dhar,Sales Executive,BR209,10-03-25,Active
+EMP1792,Samar Chandra,Assistant Manager,BR124,16-05-24,
+EMP1793,Kartik Chopra,Assistant Manager,BR118,09-03-25,
+EMP1794,Ranbir Bhat,Cashier,BR151,03-01-25,
+EMP1795,Heer Edwin,Sales Executive,BR226,05-01-25,Active
+EMP1796,Keya Savant,Branch Manager,BR217,15-04-24,Resigned
+EMP1797,Kiara Kumar,Relationship Manager,BR121,28-09-24,Active
+EMP1798,Drishya Rana,Assistant Manager,BR241,06-06-24,
+EMP1799,Ryan Ramakrishnan,Operations Manager,BR150,11-04-24,Resigned
+EMP1800,Nirvi Loke,Branch Manager,BR241,30-04-24,
+EMP1801,Damini Sarraf,Loan Officer,BR122,16-07-24,Resigned
+EMP1802,Baiju Bhatt,Assistant Manager,BR228,14-10-24,Resigned
+EMP1803,Ivan Dugal,Loan Officer,BR118,17-01-25,Resigned
+EMP1804,Mishti Lal,Relationship Manager,BR144,29-08-24,Resigned
+EMP1805,Nehmat Khalsa,Assistant Manager,BR112,03-10-24,Resigned
+EMP1806,Badal Saini,Relationship Manager,BR168,31-05-24,Active
+EMP1807,Ahana  Taneja,Assistant Manager,BR174,25-02-25,Active
+EMP1808,Hunar Lall,Assistant Manager,BR151,03-06-24,
+EMP1809,Rhea Talwar,Relationship Manager,BR164,29-08-24,Resigned
+EMP1810,Ranbir Dara,Cashier,BR179,19-04-24,Active
+EMP1811,Nitya Srinivasan,Operations Manager,BR240,27-05-24,
+EMP1812,Jivin Hayer,Loan Officer,BR124,21-11-24,Resigned
+EMP1813,Amira Soman,Credit Analyst,BR224,30-07-24,Resigned
+EMP1814,Lakshit Kurian,Operations Manager,BR235,30-07-24,Resigned
+EMP1815,Riya Rao,Branch Manager,BR167,17-04-24,Resigned
+EMP1816,Seher Goel,Customer Service Executive,BR231,17-09-24,Active
+EMP1817,Indrans Kaul,Relationship Manager,BR145,06-11-24,Active
+EMP1818,Veer Issac,Teller,BR145,24-02-25,Active
+EMP1819,Rohan Dara,Relationship Manager,BR212,30-03-25,
+EMP1820,Yakshit Kannan,Credit Analyst,BR193,20-02-25,Resigned
+EMP1821,Biju Agate,Branch Manager,BR149,09-04-24,Active
+EMP1822,Heer Khatri,Customer Service Executive,BR203,19-06-24,
+EMP1823,Seher Mane,Relationship Manager,BR229,03-12-24,Resigned
+EMP1824,Shamik Iyer,Credit Analyst,BR103,23-03-25,Resigned
+EMP1825,Yashvi Rao,Loan Officer,BR124,30-05-24,Active
+EMP1826,Romil Hayer,Credit Analyst,BR139,03-01-25,Resigned
+EMP1827,Anaya Dora,Teller,BR236,08-12-24,Active
+EMP1828,Shaan Koshy,Credit Analyst,BR119,26-01-25,
+EMP1829,Hunar Mander,Assistant Manager,BR172,23-07-24,Resigned
+EMP1830,Romil Bir,Branch Manager,BR122,06-07-24,Resigned
+EMP1831,Mahika Mander,Relationship Manager,BR169,29-03-25,Active
+EMP1832,Taran Dube,Cashier,BR184,30-06-24,Active
+EMP1833,Misha Kara,Cashier,BR114,01-05-24,Active
+EMP1834,Damini Sampath,Sales Executive,BR203,22-09-24,Resigned
+EMP1835,Seher Sane,Branch Manager,BR234,24-11-24,
+EMP1836,Abram Rajagopalan,Cashier,BR135,18-12-24,Resigned
+EMP1837,Suhana Bains,Sales Executive,BR218,08-10-24,
+EMP1838,Jayesh Bhandari,Cashier,BR150,04-11-24,Active
+EMP1839,Emir Sunder,Customer Service Executive,BR219,09-06-24,Active
+EMP1840,Kaira Mannan,Teller,BR207,02-05-24,Active
+EMP1841,Amira Balan,Operations Manager,BR175,16-09-24,
+EMP1842,Mannat Basak,Branch Manager,BR101,02-11-24,
+EMP1843,Kartik Bobal,Operations Manager,BR226,16-12-24,Active
+EMP1844,Prisha Kapadia,Loan Officer,BR225,22-08-24,Resigned
+EMP1845,Zara Anne,Assistant Manager,BR203,13-04-24,
+EMP1846,Kiara Dhawan,Teller,BR231,07-04-24,
+EMP1847,Adah Saraf,Operations Manager,BR195,20-09-24,Active
+EMP1848,Mishti Anne,Teller,BR143,12-11-24,Active
+EMP1849,Veer Dass,Sales Executive,BR202,21-10-24,Resigned
+EMP1850,Nirvaan Acharya,Cashier,BR230,25-07-24,Resigned
+EMP1851,Ira Hari,Sales Executive,BR133,25-05-24,
+EMP1852,Raunak Sood,Credit Analyst,BR243,11-07-24,Resigned
+EMP1853,Lagan Ram,Branch Manager,BR142,15-02-25,Active
+EMP1854,Jayant Ramakrishnan,Operations Manager,BR198,24-02-25,Active
+EMP1855,Mamooty Chandra,Cashier,BR102,29-12-24,Active
+EMP1856,Samar Wason,Teller,BR193,20-12-24,Resigned
+EMP1857,Mahika Baral,Relationship Manager,BR197,01-10-24,
+EMP1858,Zoya Suri,Loan Officer,BR164,03-06-24,Active
+EMP1859,Saira Datta,Sales Executive,BR142,19-11-24,Active
+EMP1860,Piya Dhaliwal,Customer Service Executive,BR188,29-09-24,
+EMP1861,Ehsaan Kapadia,Relationship Manager,BR249,09-09-24,
+EMP1862,Mamooty Bandi,Customer Service Executive,BR233,04-10-24,
+EMP1863,Adah Sachdev,Relationship Manager,BR145,25-10-24,Active
+EMP1864,Keya Shanker,Operations Manager,BR186,27-04-24,Active
+EMP1865,Kiara Lanka,Customer Service Executive,BR232,22-05-24,Active
+EMP1866,Saira Saini,Teller,BR116,22-05-24,Active
+EMP1867,Aradhya Raju,Sales Executive,BR175,15-11-24,
+EMP1868,Kiaan Hegde,Assistant Manager,BR181,29-12-24,Active
+EMP1869,Siya Keer,Credit Analyst,BR111,23-08-24,Resigned
+EMP1870,Stuvan Gole,Loan Officer,BR170,29-09-24,
+EMP1871,Himmat Mani,Customer Service Executive,BR113,07-11-24,
+EMP1872,Indrans Kala,Teller,BR143,07-09-24,Resigned
+EMP1873,Nitya Sankar,Customer Service Executive,BR140,28-03-25,
+EMP1874,Mahika Sane,Cashier,BR167,29-05-24,Active
+EMP1875,Taran Goel,Assistant Manager,BR238,03-12-24,Active
+EMP1876,Kiara Varghese,Branch Manager,BR114,23-05-24,Resigned
+EMP1877,Heer Raj,Cashier,BR194,18-03-25,Active
+EMP1878,Parinaaz Dhar,Customer Service Executive,BR114,02-08-24,
+EMP1879,Hunar Lala,Branch Manager,BR114,10-03-25,Active
+EMP1880,Lagan Chauhan,Assistant Manager,BR128,11-10-24,Active
+EMP1881,Zoya Bir,Loan Officer,BR149,06-07-24,
+EMP1882,Adira Deshpande,Sales Executive,BR134,05-11-24,
+EMP1883,Vritika Kaul,Teller,BR183,14-01-25,
+EMP1884,Himmat Kaur,Credit Analyst,BR186,25-10-24,Resigned
+EMP1885,Trisha Sami,Relationship Manager,BR129,25-11-24,
+EMP1886,Hridaan Sengupta,Cashier,BR220,23-06-24,
+EMP1887,Aarav Kata,Cashier,BR168,10-06-24,
+EMP1888,Ritvik Atwal,Credit Analyst,BR105,02-04-24,Resigned
+EMP1889,Ryan Sarraf,Assistant Manager,BR136,05-06-24,
+EMP1890,Aniruddh Kothari,Relationship Manager,BR117,02-12-24,Active
+EMP1891,Taimur Buch,Assistant Manager,BR217,16-11-24,Resigned
+EMP1892,Priyansh Saha,Teller,BR237,14-04-24,
+EMP1893,Piya Mander,Customer Service Executive,BR153,01-06-24,Active
+EMP1894,Hazel Rajagopal,Customer Service Executive,BR163,30-04-24,Active
+EMP1895,Ritvik Dara,Branch Manager,BR144,21-01-25,Resigned
+EMP1896,Shray Mahal,Loan Officer,BR220,19-02-25,Active
+EMP1897,Stuvan Wadhwa,Relationship Manager,BR124,27-06-24,
+EMP1898,Uthkarsh Varma,Loan Officer,BR127,20-04-24,Resigned
+EMP1899,Divyansh Verma,Credit Analyst,BR106,26-07-24,
+EMP1900,Misha Wagle,Branch Manager,BR183,21-09-24,
+EMP1901,Samar Tripathi,Branch Manager,BR156,11-04-24,Active
+EMP1902,Anaya Sandhu,Assistant Manager,BR204,26-05-24,
+EMP1903,Adira Talwar,Teller,BR104,25-01-25,Resigned
+EMP1904,Sana Barad,Customer Service Executive,BR121,29-04-24,Resigned
+EMP1905,Tejas Hayre,Sales Executive,BR221,05-03-25,Active
+EMP1906,Bhamini Shukla,Assistant Manager,BR161,05-10-24,
+EMP1907,Jayesh Atwal,Credit Analyst,BR203,09-12-24,Active
+EMP1908,Madhup Kala,Sales Executive,BR178,20-12-24,
+EMP1909,Dharmajan Barad,Branch Manager,BR230,20-10-24,Resigned
+EMP1910,Tara Bawa,Teller,BR113,23-05-24,Resigned
+EMP1911,Baiju Suri,Customer Service Executive,BR122,23-12-24,
+EMP1912,Manjari Ray,Branch Manager,BR112,21-11-24,
+EMP1913,Navya Bassi,Customer Service Executive,BR241,17-01-25,Active
+EMP1914,Gatik Trivedi,Customer Service Executive,BR126,18-12-24,
+EMP1915,Ehsaan Andra,Customer Service Executive,BR221,28-02-25,Active
+EMP1916,Emir Manne,Assistant Manager,BR144,22-01-25,
+EMP1917,Sara Krishnan,Assistant Manager,BR163,18-12-24,Active
+EMP1918,Zara Basak,Loan Officer,BR163,11-10-24,Resigned
+EMP1919,Indranil Behl,Teller,BR149,27-06-24,Resigned
+EMP1920,Aniruddh Bala,Loan Officer,BR151,06-05-24,
+EMP1921,Faiyaz Sood,Sales Executive,BR154,20-04-24,
+EMP1922,Mehul Kanda,Branch Manager,BR206,18-05-24,Active
+EMP1923,Kaira Chauhan,Credit Analyst,BR147,22-03-25,
+EMP1924,Zoya Gera,Sales Executive,BR148,19-09-24,
+EMP1925,Advik Wason,Operations Manager,BR233,11-03-25,Active
+EMP1926,Purab Arora,Assistant Manager,BR209,25-12-24,
+EMP1927,Aaryahi Dhillon,Operations Manager,BR228,16-10-24,Resigned
+EMP1928,Riya Dara,Assistant Manager,BR148,04-10-24,
+EMP1929,Nitya Warrior,Cashier,BR190,23-10-24,
+EMP1930,Kiaan Banik,Loan Officer,BR103,17-01-25,Active
+EMP1931,Faiyaz Gandhi,Teller,BR124,13-05-24,
+EMP1932,Nirvi Chanda,Loan Officer,BR160,17-03-25,Resigned
+EMP1933,Indranil Chakraborty,Loan Officer,BR187,07-10-24,Resigned
+EMP1934,Krish Atwal,Credit Analyst,BR221,17-08-24,Active
+EMP1935,Ahana  Setty,Cashier,BR238,13-02-25,Active
+EMP1936,Nayantara Suri,Relationship Manager,BR248,06-08-24,Active
+EMP1937,Ishita Kant,Branch Manager,BR104,19-07-24,Active
+EMP1938,Vivaan Venkatesh,Credit Analyst,BR170,06-08-24,Active
+EMP1939,Hazel Chatterjee,Assistant Manager,BR132,08-12-24,
+EMP1940,Kiara Wali,Loan Officer,BR232,22-06-24,
+EMP1941,Ivana Borah,Loan Officer,BR163,30-01-25,
+EMP1942,Sana Wali,Credit Analyst,BR233,14-09-24,
+EMP1943,Navya Deep,Credit Analyst,BR213,30-12-24,
+EMP1944,Tara Maharaj,Assistant Manager,BR144,05-11-24,Resigned
+EMP1945,Mannat Kota,Relationship Manager,BR178,24-09-24,Active
+EMP1946,Alisha Sachdev,Loan Officer,BR148,15-02-25,Active
+EMP1947,Adira Gera,Cashier,BR150,13-09-24,
+EMP1948,Prerak Gade,Customer Service Executive,BR135,23-02-25,Resigned
+EMP1949,Trisha Kapur,Sales Executive,BR161,29-09-24,Active
+EMP1950,Kismat Dasgupta,Operations Manager,BR233,02-12-24,
+EMP1951,Tanya Gole,Branch Manager,BR242,25-10-24,
+EMP1952,Hansh Kale,Assistant Manager,BR168,01-10-24,Resigned
+EMP1953,Trisha Das,Assistant Manager,BR179,02-12-24,
+EMP1954,Emir Sagar,Teller,BR218,12-05-24,Active
+EMP1955,Amira Tata,Assistant Manager,BR222,29-08-24,
+EMP1956,Dhanuk Gade,Teller,BR150,29-03-25,
+EMP1957,Adah Joshi,Loan Officer,BR206,10-11-24,Active
+EMP1958,Biju Karan,Sales Executive,BR152,06-09-24,Resigned
+EMP1959,Alisha Wali,Sales Executive,BR190,12-12-24,Active
+EMP1960,Kismat Sen,Customer Service Executive,BR115,10-07-24,Active
+EMP1961,Vedika Chatterjee,Assistant Manager,BR115,17-04-24,Resigned
+EMP1962,Hunar Doctor,Credit Analyst,BR119,14-10-24,
+EMP1963,Jayesh Thakur,Relationship Manager,BR192,05-03-25,Resigned
+EMP1964,Anahita Ram,Sales Executive,BR102,15-02-25,Resigned
+EMP1965,Jayan Shah,Credit Analyst,BR102,11-03-25,Resigned
+EMP1966,Keya Saxena,Credit Analyst,BR231,17-04-24,Active
+EMP1967,Dhruv Bansal,Customer Service Executive,BR135,28-12-24,Active
+EMP1968,Jayant Chahal,Loan Officer,BR123,26-05-24,
+EMP1969,Raunak Saxena,Relationship Manager,BR190,05-02-25,Resigned
+EMP1970,Amani Hans,Loan Officer,BR227,19-10-24,Active
+EMP1971,Pranay Bhakta,Customer Service Executive,BR162,24-03-25,
+EMP1972,Vidur Krishna,Sales Executive,BR153,26-08-24,Resigned
+EMP1973,Himmat Tata,Customer Service Executive,BR181,21-07-24,Resigned
+EMP1974,Aarush Rana,Operations Manager,BR144,17-06-24,Resigned
+EMP1975,Anvi Ben,Teller,BR248,11-09-24,Active
+EMP1976,Keya Tiwari,Loan Officer,BR198,30-06-24,
+EMP1977,Mahika Chakraborty,Relationship Manager,BR170,18-12-24,Resigned
+EMP1978,Ivana Grover,Credit Analyst,BR108,11-07-24,Resigned
+EMP1979,Krish Ravi,Branch Manager,BR158,19-05-24,Resigned
+EMP1980,Eshani Kapoor,Credit Analyst,BR129,23-02-25,Resigned
+EMP1981,Romil Bhattacharyya,Teller,BR157,30-11-24,Resigned
+EMP1982,Shray Barad,Teller,BR112,24-07-24,
+EMP1983,Indrans Gala,Teller,BR163,25-02-25,Active
+EMP1984,Dhanush Tella,Loan Officer,BR165,02-01-25,Active
+EMP1985,Indrajit Dua,Branch Manager,BR153,03-02-25,
+EMP1986,Drishya Malhotra,Loan Officer,BR211,26-07-24,Resigned
+EMP1987,Anika Walia,Branch Manager,BR125,15-08-24,Active
+EMP1988,Vritika Hora,Operations Manager,BR106,17-06-24,
+EMP1989,Diya Chaudry,Sales Executive,BR157,06-07-24,
+EMP1990,Kaira Upadhyay,Operations Manager,BR149,05-06-24,Resigned
+EMP1991,Yasmin Sama,Loan Officer,BR240,10-12-24,
+EMP1992,Dhanuk Kadakia,Credit Analyst,BR120,21-10-24,Resigned
+EMP1993,Advika Saran,Branch Manager,BR165,01-10-24,
+EMP1994,Lagan Bassi,Sales Executive,BR120,04-08-24,Resigned
+EMP1995,Abram Iyengar,Teller,BR134,29-10-24,Active
+EMP1996,Advika Lanka,Operations Manager,BR142,14-03-25,Resigned
+EMP1997,Ojas Kota,Loan Officer,BR190,25-05-24,Resigned
+EMP1998,Kaira Srivastava,Customer Service Executive,BR247,31-12-24,Resigned
+EMP1999,Vardaniya Kala,Branch Manager,BR181,20-09-24,Active

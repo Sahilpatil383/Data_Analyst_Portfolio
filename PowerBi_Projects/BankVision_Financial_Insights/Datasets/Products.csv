@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Price,Profit_Margin
+P001,Savings Account,Deposits,2245,0.22
+P002,Current Account,Deposits,3830,0.17
+P003,Fixed Deposit,Deposits,6869,0.2
+P004,Recurring Deposit,Deposits,3444,0.17
+P005,Personal Loan,Loans,2521,0.22
+P006,Home Loan,Loans,8809,0.16
+P007,Car Loan,Loans,4049,0.24
+P008,Credit Card,Cards,3580,0.24
+P009,Debit Card,Cards,6364,0.07
+P010,Insurance Plan,Insurance,7393,0.17
+P011,Mutual Fund,Investments,4512,0.17
+P012,Gold Loan,Loans,5765,0.25
+P013,Education Loan,Loans,7131,0.22
+P014,Business Loan,Loans,4954,0.23
+P015,Trading Account,Investments,9747,0.15
+P016,Investment Plan,Investments,2265,0.23
+P017,NRI Account,Accounts,5212,0.11
+P018,Wealth Management,Investments,9780,0.21
+P019,Mobile Banking,Digital,1212,0.16
+P020,Internet Banking,Digital,3101,0.22
