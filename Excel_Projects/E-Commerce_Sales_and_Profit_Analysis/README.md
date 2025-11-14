@@ -13,8 +13,7 @@ To evaluate business performance and identify trends that support data-driven de
 - Customer segment comparison shows which groups drive higher profitability.  
 
 ## 🖼️ Dashboard Preview
-[![Dashboard Preview](Screenshot_2025-11-14_151251.png)](https://github.com/SahilPatil-Analytics/Analytics-Portfolio/blob/main/Excel_Projects/E-Commerce_Sales_and_Profit_Analysis/Screenshot%202025-11-14%20151251.png)
-
+![Dashboard Preview](Screenshot_2025-11-14_151251.png)
 
 ## 📁 Included Files
 - **E-Commerce_Sales_And_Profit_Analysis.xlsx** — Main Excel dashboard  
